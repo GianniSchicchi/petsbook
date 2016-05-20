@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Gianni/Documents/android_workspaces/PetsBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4548202f45c40451c584854cafe77cdaed7c3ba4">
+        <dex dex="/Users/Gianni/Documents/android_workspaces/PetsBook/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c9a16a9aa1c24caab6fc6e234d07d5e8a111bf1e.jar" />
+    </item>
+
+</items>
